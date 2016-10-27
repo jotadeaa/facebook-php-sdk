@@ -1,5 +1,5 @@
 {
-    "name": "facebook/php-sdk",
+    "name": "jotadeaa/facebook-php-sdk",
     "description": "Facebook PHP SDK",
     "keywords": ["facebook", "sdk"],
     "type": "library",
@@ -12,7 +12,7 @@
         }
     ],
     "require": {
-        "php": ">=5.2.0",
+        "php": ">=5.3.0",
         "ext-curl": "*",
         "ext-json": "*"
     },
